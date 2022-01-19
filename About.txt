@@ -1,0 +1,4 @@
+routes - > store paths
+controllers -> folder containing all functions
+models->schema 
+views-> html files
